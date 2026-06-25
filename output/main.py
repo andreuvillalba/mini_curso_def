@@ -1,0 +1,1 @@
+# Este es el orquestador principal del proyecto, que se encarga de coordinar la ejecución de los diferentes módulos y funciones. A continuación, se presenta un ejemplo de cómo podría estructurarse este archivo:
